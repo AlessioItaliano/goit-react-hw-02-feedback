@@ -4,7 +4,7 @@ export const StatisticsList = styled.ul`
   flex-direction: column;
   display: flex;
   align-items: center;
-  gap: 15px;
+  gap: 13px;
   padding-inline-start: 0;
 `;
 
